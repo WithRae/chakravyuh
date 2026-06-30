@@ -1,0 +1,14 @@
+# Zsh
+*.zwc
+
+# macOS
+.DS_Store
+
+# Vim
+*.swp
+
+# Backup files
+*~
+
+# Temporary
+*.tmp
