@@ -1,0 +1,23 @@
+{
+  "background": {
+    "obsidian": "#0A0A0A",
+    "blackStone": "#151515",
+    "ash": "#2A2A2A"
+  },
+  "gold": {
+    "dharma": "#C9A227",
+    "lotus": "#E0B84D",
+    "temple": "#8B6A20"
+  },
+  "text": {
+    "ivory": "#F2EFE7",
+    "sandstone": "#C8C1B5",
+    "smoke": "#8C8C8C"
+  },
+  "status": {
+    "success": "#4E7A52",
+    "warning": "#D9951A",
+    "error": "#A53A2A",
+    "info": "#5D7285"
+  }
+}

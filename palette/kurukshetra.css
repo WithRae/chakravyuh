@@ -1,0 +1,22 @@
+:root {
+  /* Foundation */
+  --obsidian: #0A0A0A;
+  --black-stone: #151515;
+  --ash: #2A2A2A;
+
+  /* Gold */
+  --dharma-gold: #C9A227;
+  --lotus-gold: #E0B84D;
+  --temple-gold: #8B6A20;
+
+  /* Text */
+  --ivory: #F2EFE7;
+  --sandstone: #C8C1B5;
+  --smoke: #8C8C8C;
+
+  /* Status */
+  --victory-green: #4E7A52;
+  --marigold: #D9951A;
+  --war-ember: #A53A2A;
+  --steel-mist: #5D7285;
+}
